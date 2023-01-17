@@ -52,6 +52,7 @@ namespace ShoppingCart.BusinessLogicLayer.Operations.ProductRequestOperations
             }
             else
             {
+                Repository.ChangeState(shoppingList, Entities.Generics.State.ReadOnly);
                 var itemExists = shoppingList.ShoppingItems.FirstOrDefault(item => item.ProductId == productRequest.ProductId);
                 if (itemExists != null)
                 {
@@ -59,7 +60,6 @@ namespace ShoppingCart.BusinessLogicLayer.Operations.ProductRequestOperations
                 }
             }
 
-            Repository.ChangeState(shoppingList, Entities.Generics.State.ReadOnly);
             var shoppingItem = new ShoppingItem() { ProductId = productRequest.ProductId, ShoppingCart = shoppingList, ShoppingCartId = shoppingList.Id, Quantity = productRequest.Quantity, UnitPrice = product.Price, TotalPrice = product.Price * productRequest.Quantity };
             Repository.Create(shoppingItem);
             product.ReservedQuantity += productRequest.Quantity;
