@@ -1,0 +1,17 @@
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.BusinessLogicLayer.deps.json
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.BusinessLogicLayer.dll
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.BusinessLogicLayer.pdb
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.DataAccessLayer.dll
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.Entities.dll
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.DataAccessLayer.pdb
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\bin\Debug\net6.0\ShoppingCart.Entities.pdb
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.dll
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\refint\ShoppingCart.BusinessLogicLayer.dll
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ShoppingCart.BusinessLogicLayer.pdb
+C:\Users\nikol\source\repos\ShoppingCart\ShoppingCart.BusinessLogicLayer\obj\Debug\net6.0\ref\ShoppingCart.BusinessLogicLayer.dll
